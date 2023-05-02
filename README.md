@@ -13,7 +13,7 @@ I'm Noah Sperling. An economics enthusiast and an experienced quantitative analy
 ## Get in touch :coffee:
 - Stay in touch on [LinkedIn](https://www.linkedin.com/in/noah-sperling/).
 - Check out my research on [Sage Journals](https://journals.sagepub.com/authored-by/Sperling/Noah).
-- And of course stay up to date with the my latest code on [GitHub](https://github.com/NoahAdamSperling).
+- And of course stay up to date with the my latest code on [GitHub](https://github.com/NoahAdamSperling/NoahAdamSperling).
 
 <p align="center"> 
   Visitor count<br>
