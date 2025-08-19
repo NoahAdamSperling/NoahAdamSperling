@@ -17,7 +17,7 @@ I'm Noah Sperling. An economics enthusiast and an experienced quantitative analy
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=NoahAdamSperling&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=NoahAdamSperling&repo=Stock-Orb&countColor=%237B1E7A" alt="visitor badge"/>
 </p>
 
 <!---
